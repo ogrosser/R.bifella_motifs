@@ -12,3 +12,5 @@ The output files are:
 
 To execute this script, enter the following into a Linux terminal:
     bash r_bif_motifs.sh
+
+NOTE: Make sure your directory does not contain existing output files before executing.
